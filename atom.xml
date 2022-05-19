@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://weiliqiu.gitee.io</id>
+    <title>走出大专</title>
+    <updated>2022-05-19T12:07:14.298Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://weiliqiu.gitee.io"/>
+    <link rel="self" href="http://weiliqiu.gitee.io/atom.xml"/>
+    <subtitle>河软专接本分享</subtitle>
+    <logo>http://weiliqiu.gitee.io/images/avatar.png</logo>
+    <icon>http://weiliqiu.gitee.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 走出大专</rights>
+    <entry>
+        <title type="html"><![CDATA[大专人生   -采尼]]></title>
+        <id>http://weiliqiu.gitee.io/post/da-zhuan-ren-sheng-cai-ni/</id>
+        <link href="http://weiliqiu.gitee.io/post/da-zhuan-ren-sheng-cai-ni/">
+        </link>
+        <updated>2022-05-18T07:59:22.000Z</updated>
+        <content type="html"><![CDATA[<p>一同沉默很好，<br>
+更好的是一同欢笑<br>
+头顶着乌云般的厂顶<br>
+身下是螺丝和流水线<br>
+和朋友一同开怀大笑<br>
+还露出白齿皓皓。<br>
+我干得漂亮，<br>
+我们就愿沉默；<br>
+我干得糟糕——我们就想笑<br>
+而且干得越来越糟糕，<br>
+干得一团糟，<br>
+笑得一团糟，<br>
+最后朝坟墓里一跳。<br>
+朋友！是的：<br>
+可应当如此这般？<br>
+阿门！明儿见</p>
+]]></content>
+    </entry>
+</feed>
